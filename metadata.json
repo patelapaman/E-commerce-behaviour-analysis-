@@ -1,0 +1,8 @@
+{
+  "name": "E-Commerce Behaviour Analysis Platform",
+  "description": "SaaS analytics system parsing customer purchasing records to generate cohorts, RFM segments, ML predictions, and automated insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
